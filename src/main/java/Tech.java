@@ -1,3 +1,4 @@
-public class tech {chchhchchch
-    
+public class Tech {chchhchchch
+
 }hhvh
+gi
