@@ -1,6 +1,6 @@
 import javax.xml.ws.spi.http.HttpHandler;
 
-public class CARS {
+public class Cars {
     HttpHandlerHSBH
     BBJ
              N N
